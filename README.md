@@ -7,6 +7,8 @@ I have bound each script to a button on my mouse (using X-Mouse Button Control) 
 
 Finds the "Floating for YouTube"-window, pauses the video, unpins it from "Always on top" and minimizes the window
 
+
+
 **Play.au3**
 
 Finds the "Floating for YouTube"-window, restores it from minimized, pins it on "Always on top" and then presses play
